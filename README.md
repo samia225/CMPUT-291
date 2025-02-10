@@ -1,2 +1,3 @@
-# CMPUT-291
-Introduction to File and Database Management
+## Introduction to File and Database Management
+
+This course provided in-depth knowledge of data organization, storage architecture, and information processing. It covered core database concepts, including the Entity-Relationship (ER) model, relational databases, SQL, and other query languages. I gained hands-on experience in designing, querying, and optimizing relational databases, as well as working with storage architecture, physical data organization, and access methods for efficient data retrieval. The course also involved a project that required programming (e.g., Python), reinforcing practical database implementation skills.
